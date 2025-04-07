@@ -4,3 +4,5 @@ The dice will power off after not being used for about a minute and can be turne
 To select the diferent kind of dice you press the button, the first display will show what dice is selected d4, d6 or d8 and the second display will show the number of the roll. The dice all features a two d6 dice throwing mode.
 To throw the dice just wave your hand above it, the IR sensor will detect the hand movement and initiate the throw. It works in various lighting conditions.
 It uses a 5V Li-Ion battery cell.
+
+The dice was programmed in MPLABX and the Zar.X rar archive contains the code.
